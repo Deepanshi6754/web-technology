@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>GitHUB</h1>
+    <p>GitHub is a web-based interface allowing real-time collaboration. It encourages teams to work together in
+        developing code, building web pages and updating content. Read on for a quick introduction to GitHub, who uses
+        it, and why.</p>
+    <p>GitHub is useful in the development stage for code, content, research, web pages, and more. With GitHub, you can
+        easily track changes and navigate revisions. That explains its popularity with so many users. This article
+        describes how to use GitHub, its benefits, and where you might encounter it professionally, as well as how to
+        use it personally.</p>
+    <h1>What is GitHub used for?</h1>
+    <p>GitHub allows you to create, store, change, merge, and collaborate on files or code. Any member of a team can
+        access the GitHub repository (think of this as a folder for files) and see the most recent version in real-time.
+        Then, they can make edits or changes that the other collaborators also see. GitHub also lets users make requests
+        of one another and internally discuss the iterations along the way. It’s even been called “a social coding
+        platform” because it invites people to coordinate, share, and collaborate code across distributed and
+        asynchronous environments</p>
+    <br><br>
+    <img src="https://th.bing.com/th/id/OIP.jQc6xbHlxeJTF_Js4se8ugHaGK?rs=1&pid=ImgDetMain">
+    <hr>
+    <iframe src="https://youtu.be/14R1mI47SOc?si=mW5lnPrytkY2tI_j"></iframe>
+</body>
+
+</html>
