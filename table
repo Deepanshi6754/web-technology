@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+
+<body>
+    <table border="" width="80px">
+        <th colspan="6">time table</th>
+        <tr>
+            <th rowspan="6">hours</th>
+            <th>mon</th>
+            <th>tue</th>
+            <th>wed</th>
+            <th>thu</th>
+            <th>fri</th>
+        </tr>
+        <tr>
+            <td>science</td>
+            <td>maths</td>
+            <td>science</td>
+            <td>maths</td>
+            <td>arts</td>
+        </tr>
+        <tr>
+            <td>social</td>
+            <td>history</td>
+            <td>english</td>
+            <td>social</td>
+            <td>sports</td>
+        </tr>
+        <th colspan="5">lunch time</th>
+        <tr>
+            <td>social</td>
+            <td>history</td>
+            <td>english</td>
+            <td>social</td>
+            <th rowspan="2">free</th>
+
+        </tr>
+        <tr>
+            <td>social</td>
+            <td>history</td>
+            <td>english</td>
+            <td>social</td>
+        </tr>
+    </table>
+</body>
+
+</html>
